@@ -15,7 +15,7 @@
 
 1.  **Склонируйте репозиторий и установите зависимости:**
     ```bash
-    git clone [<repo_url>](https://github.com/untovvn/telegram-manager-bot)
+    git clone https://github.com/untovvn/telegram-manager-bot
     cd <project_folder>
     python -m venv venv
     source venv/bin/activate  # или venv\Scripts\activate для Windows
